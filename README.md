@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SmithDev-0717
-- 👀 I’m interested in Automatic Bot & Blockchain & Mobile app Develop.
+- 👀 I’m interested in Web Development & Automatic Bot & Blockchain & Mobile app Develop.
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on full time jobs,part time jobs
 - 📫 How to reach me SmithDev0717@proton.me
